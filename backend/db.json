@@ -4,24 +4,28 @@
       "id": 1,
       "conteudo": "Conteudo",
       "autoria": "Autoria",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Conteudo2",
       "autoria": "Autoria2",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Conteudo3",
       "autoria": "Autoria3",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Novo teste alterado",
       "autoria": "Autoria nova",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
     }
   ]
